@@ -1,12 +1,11 @@
-#include <iostream>
+include<iostream>
 using namespace std;
 
-int main ()
-
-{  Varchar = Name;
-
-cin >> name = Ndimuhulu 
-
-cout << " My Name Is /* Name " 
-
+int main() 
+{
+    cout << "Hello World!" << endl;
+    
+    cout << "I Am Ndimuhulu";
+    
+    return 0;
 }
